@@ -1,0 +1,18 @@
+  
+body {
+  background-image: url('http://images6.fanpop.com/image/photos/39900000/Art-Black-Background-Spectrum-Colors-Wallpaper-cutiepyepye-39902540-1024-576.jpg');
+  background-size: cover;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+body {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: "Arial";
+  font-size: 20px;
+}
